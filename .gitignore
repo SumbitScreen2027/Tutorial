@@ -1,2 +1,4 @@
 .settings
 server.js
+.hidden
+dose.txt
